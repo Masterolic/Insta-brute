@@ -18,3 +18,5 @@ echo -e '\e[92m
 ╚╗╔╣╚╝║╔╗║║║║╔╣══╣
 ─║║║╔╗║╠╣║║║║╚╬══║
 ─╚╝╚╝╚╩╝╚╩╩═╩╩╩══╝'
+
+echo -e '\e[34mDEVELOPPER t.me/masterolic...! Contact for more info..!
