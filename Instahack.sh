@@ -7,6 +7,7 @@ apt install -y python2 python tor wget
 pip install --upgrade pip
 pip install requests
 pip install stem
+pip install instagram-py
 
 echo -e "\e[34mSETTING UP SERVERS.....WAIT\e[0m"
 cd $HOME >/dev/null 2>&1
