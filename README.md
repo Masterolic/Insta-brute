@@ -4,7 +4,7 @@ Insta hack is a bash based script which is officially made to test password stre
 # RUNING
 `git clone https://github.com/Masterolic/Insta-hack`
 `cd Insta-hack`
-`bash Instahack.hack`
+`bash Instahack-Installer`
 
 Take new section run tor and Run
 
